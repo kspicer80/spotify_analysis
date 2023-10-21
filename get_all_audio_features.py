@@ -1,6 +1,6 @@
 import json
 import os
-import secrets
+import spotify_secrets
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 from spotipy.oauth2 import SpotifyOAuth
@@ -8,9 +8,9 @@ from datetime import datetime
 
 today = datetime.today().strftime('%Y-%m-%d')
 
-os.environ['SPOTIPY_CLIENT_ID'] = secrets.SPOTIPY_CLIENT_ID
-os.environ['SPOTIPY_CLIENT_SECRET'] = secrets.SPOTIPY_CLIENT_SECRET
-os.environ['SPOTIPY_REDIRECT_URI'] = secrets.SPOTIPY_REDIRECT_URI
+os.environ['SPOTIPY_CLIENT_ID'] = spotify_secrets.SPOTIPY_CLIENT_ID
+os.environ['SPOTIPY_CLIENT_SECRET'] = spotify_secrets.SPOTIPY_CLIENT_SECRET
+os.environ['SPOTIPY_REDIRECT_URI'] = spotify_secrets.SPOTIPY_REDIRECT_URI
 
 # Rest of the script goes here
 spotify = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials())
@@ -19,7 +19,7 @@ scope = "user-library-read user-top-read"
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
 print(sp.me())
 
-with open('saved_tracks_test_2023-10-17.json', 'r') as infile:
+with open('playlist_tracks_for_william_2023-10-20.json', 'r') as infile:
     saved_tracks = json.load(infile)
 
 tracks_with_features = []

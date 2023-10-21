@@ -1,5 +1,5 @@
 import json
-import secrets
+import spotify_secrets
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 from spotipy.oauth2 import SpotifyOAuth
@@ -7,9 +7,9 @@ import os
 from datetime import datetime
 from icecream import ic
 
-os.environ['SPOTIPY_CLIENT_ID'] = secrets.SPOTIPY_CLIENT_ID
-os.environ['SPOTIPY_CLIENT_SECRET'] = secrets.SPOTIPY_CLIENT_SECRET
-os.environ['SPOTIPY_REDIRECT_URI'] = secrets.SPOTIPY_REDIRECT_URI
+os.environ['SPOTIPY_CLIENT_ID'] = spotify_secrets.SPOTIPY_CLIENT_ID
+os.environ['SPOTIPY_CLIENT_SECRET'] = spotify_secrets.SPOTIPY_CLIENT_SECRET
+os.environ['SPOTIPY_REDIRECT_URI'] = spotify_secrets.SPOTIPY_REDIRECT_URI
 
 scope = "user-library-read user-top-read"
 spotify = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials())
