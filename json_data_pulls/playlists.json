@@ -1,0 +1,506 @@
+{
+    "href": "https://api.spotify.com/v1/users/spicy.kev/playlists?offset=0&limit=50",
+    "items": [
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/3LaqY51sfNMiQnC8XimuCW"
+            },
+            "href": "https://api.spotify.com/v1/playlists/3LaqY51sfNMiQnC8XimuCW",
+            "id": "3LaqY51sfNMiQnC8XimuCW",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27327004fa600c8b3db34a3efef",
+                    "width": 640
+                }
+            ],
+            "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
+            "owner": {
+                "display_name": "spicy.kev",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spicy.kev"
+                },
+                "href": "https://api.spotify.com/v1/users/spicy.kev",
+                "id": "spicy.kev",
+                "type": "user",
+                "uri": "spotify:user:spicy.kev"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MixiYjFjYzYxM2MwODcyMDNlODEwYmIwNmUzOTljMDI0MzlkZWUzMTgx",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/3LaqY51sfNMiQnC8XimuCW/tracks",
+                "total": 18
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:3LaqY51sfNMiQnC8XimuCW"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/600BpcnLJUG7OJ42Y3p2z8"
+            },
+            "href": "https://api.spotify.com/v1/playlists/600BpcnLJUG7OJ42Y3p2z8",
+            "id": "600BpcnLJUG7OJ42Y3p2z8",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731ac7945379c88fb7f5844b59",
+                    "width": 640
+                }
+            ],
+            "name": "Chopin: Nocturnes",
+            "owner": {
+                "display_name": "spicy.kev",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spicy.kev"
+                },
+                "href": "https://api.spotify.com/v1/users/spicy.kev",
+                "id": "spicy.kev",
+                "type": "user",
+                "uri": "spotify:user:spicy.kev"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MiwxMDNlMDJkZDczMTU1ZTU3Y2M2NzczMDVjMzE4OTI4NjkwYjI5ODhj",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/600BpcnLJUG7OJ42Y3p2z8/tracks",
+                "total": 19
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:600BpcnLJUG7OJ42Y3p2z8"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0GLsVmsylq2w8i3mRbiJ5z"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0GLsVmsylq2w8i3mRbiJ5z",
+            "id": "0GLsVmsylq2w8i3mRbiJ5z",
+            "images": [],
+            "name": "My Playlist #11",
+            "owner": {
+                "display_name": "spicy.kev",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spicy.kev"
+                },
+                "href": "https://api.spotify.com/v1/users/spicy.kev",
+                "id": "spicy.kev",
+                "type": "user",
+                "uri": "spotify:user:spicy.kev"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MSw2NzAxZDgyNzUwMjBhZmMwZTViNjQ2ZWQ1MmViMmE3N2UzYzQxNDdi",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0GLsVmsylq2w8i3mRbiJ5z/tracks",
+                "total": 0
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0GLsVmsylq2w8i3mRbiJ5z"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2R9fXF5kW22ViBpcsNCWVU"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2R9fXF5kW22ViBpcsNCWVU",
+            "id": "2R9fXF5kW22ViBpcsNCWVU",
+            "images": [],
+            "name": "My Playlist #10",
+            "owner": {
+                "display_name": "spicy.kev",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spicy.kev"
+                },
+                "href": "https://api.spotify.com/v1/users/spicy.kev",
+                "id": "spicy.kev",
+                "type": "user",
+                "uri": "spotify:user:spicy.kev"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MSw4YmYxOGVkMmMyZDQyZTZjYmY2ZTQzN2MzNDRiZTY1MzI2ZjQyN2U4",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2R9fXF5kW22ViBpcsNCWVU/tracks",
+                "total": 0
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2R9fXF5kW22ViBpcsNCWVU"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/68jL8tZL0lZ0QndGkdGzNG"
+            },
+            "href": "https://api.spotify.com/v1/playlists/68jL8tZL0lZ0QndGkdGzNG",
+            "id": "68jL8tZL0lZ0QndGkdGzNG",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273892ab7af113e812930621b77",
+                    "width": 640
+                }
+            ],
+            "name": "Everything Everything\u2014Get to Heaven",
+            "owner": {
+                "display_name": "spicy.kev",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spicy.kev"
+                },
+                "href": "https://api.spotify.com/v1/users/spicy.kev",
+                "id": "spicy.kev",
+                "type": "user",
+                "uri": "spotify:user:spicy.kev"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NCw3MWI4NGQyY2NkMTQ5ZDc3NGEzYWU4M2Q3ZTNmYjcyOGRmOWM1MjEw",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/68jL8tZL0lZ0QndGkdGzNG/tracks",
+                "total": 17
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:68jL8tZL0lZ0QndGkdGzNG"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4KCvwfXUhuyk5TzOZRHpr5"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4KCvwfXUhuyk5TzOZRHpr5",
+            "id": "4KCvwfXUhuyk5TzOZRHpr5",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b27302a7813b26efc8f7ce5f3434ab67616d0000b273046f250bbf296cb8c5296346ab67616d0000b2733e925ce40de481ef6f936897ab67616d0000b273f2f65c08a66e03c69cbc0081",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b27302a7813b26efc8f7ce5f3434ab67616d0000b273046f250bbf296cb8c5296346ab67616d0000b2733e925ce40de481ef6f936897ab67616d0000b273f2f65c08a66e03c69cbc0081",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b27302a7813b26efc8f7ce5f3434ab67616d0000b273046f250bbf296cb8c5296346ab67616d0000b2733e925ce40de481ef6f936897ab67616d0000b273f2f65c08a66e03c69cbc0081",
+                    "width": 60
+                }
+            ],
+            "name": "Tori Amos!",
+            "owner": {
+                "display_name": "spicy.kev",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spicy.kev"
+                },
+                "href": "https://api.spotify.com/v1/users/spicy.kev",
+                "id": "spicy.kev",
+                "type": "user",
+                "uri": "spotify:user:spicy.kev"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTEsMGIzZjAyNzZhNmRiY2IyNWE5Zjc0MmE2N2NmOTJkNWYyOGVmNjJjYw==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4KCvwfXUhuyk5TzOZRHpr5/tracks",
+                "total": 9
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4KCvwfXUhuyk5TzOZRHpr5"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/7pAft3KM6UpcncV5TGycwq"
+            },
+            "href": "https://api.spotify.com/v1/playlists/7pAft3KM6UpcncV5TGycwq",
+            "id": "7pAft3KM6UpcncV5TGycwq",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273599744ff752385ed68253005",
+                    "width": 640
+                }
+            ],
+            "name": "Anima Music\u00e6 Chamber Orchestra \u2013 String Serenades, Vol. 2: Suk & Dvo\u0159\u00e1k",
+            "owner": {
+                "display_name": "spicy.kev",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spicy.kev"
+                },
+                "href": "https://api.spotify.com/v1/users/spicy.kev",
+                "id": "spicy.kev",
+                "type": "user",
+                "uri": "spotify:user:spicy.kev"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MixmZWU5NjYwYTdmMjI5NTc5MWVjNDgwYzQwZGZjZjBlNjc3ZDkwMTI4",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/7pAft3KM6UpcncV5TGycwq/tracks",
+                "total": 9
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:7pAft3KM6UpcncV5TGycwq"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2n1vrGeqRIX3i7nMrOWrD1"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2n1vrGeqRIX3i7nMrOWrD1",
+            "id": "2n1vrGeqRIX3i7nMrOWrD1",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734b889ddb2c987010c6cb9e3a",
+                    "width": 640
+                }
+            ],
+            "name": "Aaron Copland \u2013 Copland: Appalachian Spring, Rodeo, Billy the Kid & Fanfare for the Common Man",
+            "owner": {
+                "display_name": "spicy.kev",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spicy.kev"
+                },
+                "href": "https://api.spotify.com/v1/users/spicy.kev",
+                "id": "spicy.kev",
+                "type": "user",
+                "uri": "spotify:user:spicy.kev"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NCw0ODY2OTc3OWNiZDhiMjNhM2JlOTUyMjcwZDU5NjBkNTUwY2IyMWYy",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2n1vrGeqRIX3i7nMrOWrD1/tracks",
+                "total": 23
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2n1vrGeqRIX3i7nMrOWrD1"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/446k3BwCgUuSZQR0YiSlMJ"
+            },
+            "href": "https://api.spotify.com/v1/playlists/446k3BwCgUuSZQR0YiSlMJ",
+            "id": "446k3BwCgUuSZQR0YiSlMJ",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273ac29a65e7ffcfa6f9cb0d342",
+                    "width": 640
+                }
+            ],
+            "name": "Hans Zimmer \u2013 Interstellar (Original Motion Picture Soundtrack) [Deluxe Version]",
+            "owner": {
+                "display_name": "spicy.kev",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spicy.kev"
+                },
+                "href": "https://api.spotify.com/v1/users/spicy.kev",
+                "id": "spicy.kev",
+                "type": "user",
+                "uri": "spotify:user:spicy.kev"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MyxlNjc4MWQ2NDM1YWM2YjcwZjIyMGI2OGI1NDNkMDUyYzdlNmM0Y2Vm",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/446k3BwCgUuSZQR0YiSlMJ/tracks",
+                "total": 25
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:446k3BwCgUuSZQR0YiSlMJ"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5M48UkyUwMLb95Vgn1WMYP"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5M48UkyUwMLb95Vgn1WMYP",
+            "id": "5M48UkyUwMLb95Vgn1WMYP",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b27300e1b77a3e18655f7f01641dab67616d0000b2735224736dced05a6e6c1b5210ab67616d0000b273a0bda904248d77b7f3788297ab67616d0000b273a2baeed584e7d6ea0bf136b3",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b27300e1b77a3e18655f7f01641dab67616d0000b2735224736dced05a6e6c1b5210ab67616d0000b273a0bda904248d77b7f3788297ab67616d0000b273a2baeed584e7d6ea0bf136b3",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b27300e1b77a3e18655f7f01641dab67616d0000b2735224736dced05a6e6c1b5210ab67616d0000b273a0bda904248d77b7f3788297ab67616d0000b273a2baeed584e7d6ea0bf136b3",
+                    "width": 60
+                }
+            ],
+            "name": "Classical Stuff",
+            "owner": {
+                "display_name": "spicy.kev",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spicy.kev"
+                },
+                "href": "https://api.spotify.com/v1/users/spicy.kev",
+                "id": "spicy.kev",
+                "type": "user",
+                "uri": "spotify:user:spicy.kev"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTE2LGRhMTcxMWI0MTA5OWYwZTI2MTE0YzEzMmFlZGJjODk1MTc4ODllMzM=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5M48UkyUwMLb95Vgn1WMYP/tracks",
+                "total": 103
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5M48UkyUwMLb95Vgn1WMYP"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1OKCy0RQDeexIMdPutnwX1"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1OKCy0RQDeexIMdPutnwX1",
+            "id": "1OKCy0RQDeexIMdPutnwX1",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b273121d5f92cf90576907dfb1e5ab67616d0000b27376c5c62197115a22b23ff950ab67616d0000b27386498c6e8ee965fa665a9c3dab67616d0000b273cf5459850259268f98b07f7a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b273121d5f92cf90576907dfb1e5ab67616d0000b27376c5c62197115a22b23ff950ab67616d0000b27386498c6e8ee965fa665a9c3dab67616d0000b273cf5459850259268f98b07f7a",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b273121d5f92cf90576907dfb1e5ab67616d0000b27376c5c62197115a22b23ff950ab67616d0000b27386498c6e8ee965fa665a9c3dab67616d0000b273cf5459850259268f98b07f7a",
+                    "width": 60
+                }
+            ],
+            "name": "Starred",
+            "owner": {
+                "display_name": "spicy.kev",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spicy.kev"
+                },
+                "href": "https://api.spotify.com/v1/users/spicy.kev",
+                "id": "spicy.kev",
+                "type": "user",
+                "uri": "spotify:user:spicy.kev"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NCwwODE5YjMwOGRlNTQxMjJmODI0YTgyYjZlZjU2ODJhZmEwZGExZGMw",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1OKCy0RQDeexIMdPutnwX1/tracks",
+                "total": 23
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1OKCy0RQDeexIMdPutnwX1"
+        },
+        {
+            "collaborative": false,
+            "description": "Doja Cat on top of the Hottest 50!",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M",
+            "id": "37i9dQZF1DXcBWIGoYBM5M",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67706f00000003023867d5cf694548540423dd",
+                    "width": null
+                }
+            ],
+            "name": "Today's Top Hits ",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTY5NjU4NjQwMCwwMDAwMDAwMDYyOWVlM2FmNGY4MWM4NzFmNDZhNTgwMGI3YTFlNTVj",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M/tracks",
+                "total": 50
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1DXcBWIGoYBM5M"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4mw2ZiaizOYnl899eqVSsL"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4mw2ZiaizOYnl899eqVSsL",
+            "id": "4mw2ZiaizOYnl899eqVSsL",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b273121d5f92cf90576907dfb1e5ab67616d0000b27376c5c62197115a22b23ff950ab67616d0000b27386498c6e8ee965fa665a9c3dab67616d0000b273cf5459850259268f98b07f7a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b273121d5f92cf90576907dfb1e5ab67616d0000b27376c5c62197115a22b23ff950ab67616d0000b27386498c6e8ee965fa665a9c3dab67616d0000b273cf5459850259268f98b07f7a",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b273121d5f92cf90576907dfb1e5ab67616d0000b27376c5c62197115a22b23ff950ab67616d0000b27386498c6e8ee965fa665a9c3dab67616d0000b273cf5459850259268f98b07f7a",
+                    "width": 60
+                }
+            ],
+            "name": "Starred",
+            "owner": {
+                "display_name": "spicy.kev",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spicy.kev"
+                },
+                "href": "https://api.spotify.com/v1/users/spicy.kev",
+                "id": "spicy.kev",
+                "type": "user",
+                "uri": "spotify:user:spicy.kev"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "OCxhMGQ0Mzk1ZGZkODU4N2M5NjRmZmRmZjg1YTZiMTFmMjVhYzRiZTk0",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4mw2ZiaizOYnl899eqVSsL/tracks",
+                "total": 22
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4mw2ZiaizOYnl899eqVSsL"
+        }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 13
+}
