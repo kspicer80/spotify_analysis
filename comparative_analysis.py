@@ -2,7 +2,6 @@ import json
 import pandas as pd
 import plotly.express as px
 
-
 with open('saved_tracks_with_features_2023-10-17.json', 'r') as infile:
     dr_s_tracks = json.load(infile)
 
