@@ -1,3 +1,4 @@
+# BEGIN: 8f7d6h3j4k5l
 import json
 import pandas as pd
 import plotly.express as px
@@ -29,8 +30,7 @@ fig.update_layout(title='Comparision of Danceability and Energy between William 
 fig.write_html('images/plots/comparisons_between_william_and_me.html')
 fig.show()
 
-# calculate the Jaccard similarity coefficient between the two sets of points
-set_1 = set(df_1[['danceability', 'energy']].itertuples(index=False, name=None))
-set_2 = set(df_2[['danceability', 'energy']].itertuples(index=False, name=None))
-jaccard_similarity = len(set_1.intersection(set_2)) / len(set_1.union(set_2))
-print(f"Jaccard similarity coefficient: {jaccard_similarity:.2f}")
+# plot valence scores
+fig = px.box(df, x="source", y="valence", color="source", color_discrete_map=color_map, points="all")
+fig.update_layout(title='Valence Scores by Source')
+fig.show()
