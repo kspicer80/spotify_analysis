@@ -19,7 +19,7 @@ scope = "user-library-read user-top-read"
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
 print(sp.me())
 
-with open('playlist_tracks_for_william_2023-10-20.json', 'r') as infile:
+with open('saved_playlists/saved_tracks_2023-10-28.json', 'r') as infile:
     saved_tracks = json.load(infile)
 
 tracks_with_features = []
@@ -56,7 +56,7 @@ for i in range(0, len(saved_tracks), batch_size):
         }
         tracks_with_features.append(track_with_features)
 
-with open(f'saved_tracks_with_features_{today}.json', 'w') as outfile:
+with open(f'saved_tracks_with_features/saved_tracks_with_features_{today}.json', 'w') as outfile:
     json.dump(tracks_with_features, outfile, indent=4)
 
 print(f"Saved {len(tracks_with_features)} tracks with features to saved_tracks_with_features_{today}.json")

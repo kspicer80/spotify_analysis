@@ -27,7 +27,7 @@ while True:
         break
 
 today = datetime.today().strftime('%Y-%m-%d')
-with open(f'saved_tracks_test_{today}.json', 'w') as outfile:
+with open(f'saved_playlists/saved_tracks_{today}.json', 'w') as outfile:
     json.dump(results, outfile)
 
 ic(f"Saved {len(results)} tracks to saved_tracks_test_{today}.json")
