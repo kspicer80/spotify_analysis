@@ -19,7 +19,7 @@ scope = "user-library-read user-top-read"
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
 print(sp.me())
 
-with open('saved_playlists/saved_tracks_2023-10-28.json', 'r') as infile:
+with open('saved_playlists/saved_tracks_2023-10-31.json', 'r') as infile:
     saved_tracks = json.load(infile)
 
 tracks_with_features = []
