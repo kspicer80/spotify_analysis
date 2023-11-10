@@ -15,11 +15,11 @@ scope = "user-library-read user-top-read"
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
 print(sp.me())
 
-with open('saved_tracks.json', 'r') as infile:
+with open('main_data_files/saved_tracks.json', 'r') as infile:
     saved_tracks = json.load(infile)
 
 # Load the existing .json file into a dictionary
-with open('saved_tracks_with_features.json', 'r') as infile:
+with open('main_data_files/saved_tracks_with_features.json', 'r') as infile:
     tracks_with_features = json.load(infile)
 
 tracks_with_features_dict = {track['uri']: track for track in tracks_with_features}
@@ -64,7 +64,7 @@ for i in range(0, len(saved_tracks), batch_size):
         new_tracks_count += 1  # increment the counter
 
 # Write the dictionary back to the .json file
-with open('saved_tracks_with_features.json', 'w') as outfile:
+with open('main_data_files/saved_tracks_with_features.json', 'w') as outfile:
     json.dump(list(tracks_with_features_dict.values()), outfile, indent=4)
 
 print(f"Updated saved_tracks_with_features.json with {new_tracks_count} new tracks")
