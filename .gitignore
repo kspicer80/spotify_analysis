@@ -2,6 +2,7 @@
 .DS_Store
 secrets.py
 __pycache__/secrets.cpython-311.pyc
+__pycache__/spotify_secrets.cpython-311.pyc
 .cache
 spotify_secrets.py
 __pycache__/helper_functions.cpython-311.pyc
